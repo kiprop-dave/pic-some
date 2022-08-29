@@ -13,4 +13,4 @@ It was the capstone project for the advanced React course on [Scrimba](https://s
 
 ## Deployment
 
-The site is deployed with github pages [here](). The optimized production build is fiund on the production branch
+The site is deployed with github pages [here](http://tanuikiprop.me/pic-some/). The optimized production build is fiund on the production branch
